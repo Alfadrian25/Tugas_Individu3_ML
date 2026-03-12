@@ -30,7 +30,7 @@ Tugas_Individu3_ML
 
 Keterangan:
 
-- `data_structures.ipynb` → Notebook berisi kode praktik Python
+- `Individu3_Python.ipynb` → Notebook berisi kode praktik Python
 - `README.md` → Dokumentasi repository
 
 ---
