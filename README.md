@@ -21,9 +21,9 @@ Praktik ini dilakukan menggunakan **Jupyter Notebook** untuk memahami bagaimana 
 
 ```
 
-python-data-structures-practice
+Tugas_Individu3_ML
 │
-├── data_structures.ipynb
+├── Individu3_Python.ipynb
 ├── README.md
 
 ````
@@ -123,12 +123,8 @@ myTuple = tuple(myList)
 231001067
 Informatika C
 
-```
-
----
-
 Link Youtube : 
 
 # https://youtu.be/qsPnN_rJkJU?si=oDnOmusZuoU8uXqx
 
----
+```
