@@ -123,7 +123,8 @@ myTuple = tuple(myList)
 231001067
 Informatika C
 
-Link Youtube : 
+---
+## Link Youtube : 
 
 # https://youtu.be/qsPnN_rJkJU?si=oDnOmusZuoU8uXqx
 
